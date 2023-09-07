@@ -1,7 +1,7 @@
 {
   "name": "@victordulap/xpg-lc-components",
   "repository": "git://github.com/victordulap/test-common-components.git",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "dist/index.js",
   "scripts": {
