@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="481" height="481" viewBox="0 0 461 461">
+  <defs>
+    <linearGradient id="wheel-shadow-linear-gradient" y1="0.482" x2="0.982" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="0.262"/>
+      <stop offset="0.502" stop-opacity="0"/>
+      <stop offset="0.731"/>
+      <stop offset="1"/>
+    </linearGradient>
+  </defs>
+  <ellipse id="Ellipse_399" data-name="Ellipse 399" cx="230.63" cy="230.345" rx="230.63" ry="230.345" fill="url(#wheel-shadow-linear-gradient)"/>
+</svg>
